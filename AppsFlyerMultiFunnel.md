@@ -1,3 +1,4 @@
+```
 WITH
   clicks AS (
     SELECT
