@@ -517,11 +517,16 @@ SELECT
 FROM inapps
 */
 
-
+/*
 SELECT
     *
 FROM user_journey
 ORDER BY appsflyer_id, customer_user_id, touch_time ASC
+*/
+
+SELECT
+   *
+FROM multi_channel_funnel
 
 /*
 --raw data check
